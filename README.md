@@ -1,6 +1,6 @@
 # aplikasi_peta_restoran
 
-<img src="https://kelasrumahofficial.github.io/file/kelasrumah.png" width="200px">
+<img src="https://kelasrumah.github.io/file/kelasrumah.png" width="200px">
 
 Aplikasi Lokasi Restoran Google Maps menggunakan App Inventor | Appybuilder | Thunkable - kelasrumah Tanpa Coding, sangat cocok untuk pemula dan cocok untuk dipelajari lebih lanjut tidak menggunakan coding, tanpa coding serta mudah digunakan dan dapat di jadikan pemasukan tambahan.
 
